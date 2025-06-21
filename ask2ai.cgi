@@ -98,7 +98,6 @@ async def main() -> None:
     <td style="width:33%;vertical-align:top">
     <h3>その他のサイトへのリンク</h3>
     <a href="https://felo.ai/ja/search" target="_blank">Felo</a><br>
-    <a href="https://x.com/i/grok" target="_blank">Grok</a><br>
     <a href="https://claude.ai/new">claude</a><br>
     </td>
     </tr>
