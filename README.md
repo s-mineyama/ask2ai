@@ -8,5 +8,5 @@ ask2ai.cgi is a cgi script to ask 2 ais.
 
 ask3ai.cgi is a sample cgi to ask 3 ais.
 
-[![ask3ai](https://github.com/s-mineyama/ask2ai/blob/master/ask3ait.png)](https://www.youtube.com/shorts/KX9Bie7_SrY)
+[![ask3ai](https://raw.githubusercontent.com/s-mineyama/ask2ai/refs/heads/master/ask3ait.png)](https://www.youtube.com/shorts/KX9Bie7_SrY)
 
